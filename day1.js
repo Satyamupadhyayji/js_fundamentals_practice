@@ -55,9 +55,3 @@ if(true){
 }
     // Function scope
 */
-function abc(){
-    var a=10;
-    console.log(a)
-}
-abc();
-console.log(a)
